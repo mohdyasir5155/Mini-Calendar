@@ -1,6 +1,6 @@
 ![Screenshot 2023-07-24 230124](https://github.com/mohdyasir5155/Mini-Calendar/assets/131906472/53d7c937-3227-48ac-b2a9-ef805c3b7964)
 
-<h1 align=center>📅Calendar🍉</h1>
+<h1 align=center>📅Mini-Calendar🍉</h1>
 
 ## Mini-Calender
 
