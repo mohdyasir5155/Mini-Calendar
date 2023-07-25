@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: url(images/background.jpg);
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    justify-content: center;
+}
+.calender {
+    width: 300px;
+    height: 250px;
+    display: flex;
+    background: white;
+    align-items: center;
+    border: 3px solid black;
+    justify-content: center;
+    border-radius: 16px;
+}
+.left, .right{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 24px;
+}
+.right {
+    background: #f4351e;
+    color: white;
+    border-top-right-radius:10px;
+    border-bottom-right-radius: 10px;
+}
+.left{
+    width: 58%;
+}
+
+#date{
+    font-size: 100px;
+    line-height: 90px;
+}
